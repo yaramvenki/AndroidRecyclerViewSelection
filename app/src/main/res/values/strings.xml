@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SingleSelection</string>
+
+    <string-array name="selections">
+        <item>Android</item>
+        <item>ios</item>
+        <item>Black berry</item>
+        <item>windows</item>
+        <item>samsung</item>
+        <item>Moto</item>
+        <item>htc</item>
+    </string-array>
+</resources>
